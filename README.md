@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Expensify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About 
 
-## Available Scripts
+Expensify is an applications which helps, keep track of your expenses in a gingle click.
+It's build using Reactjs, Bootstrap - 5, and Firebase for backend. 
 
-In the project directory, you can run:
+## Sections
+Has 3 main Sections
 
-### `yarn start`
+### Signup Page
+User can register with valid email address and password.
+![image](https://user-images.githubusercontent.com/69415586/171323631-99f53f70-c805-48f6-aca1-5b1bd69c728e.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Login Page
+This page displays 2 options for login i.e either through registered email or via google authentication. 
+![image](https://user-images.githubusercontent.com/69415586/171323500-d1e1d319-c373-4c94-b3a8-9d842c63b2c8.png)
+![image](https://user-images.githubusercontent.com/69415586/171323590-12c622f4-6463-4aaa-8581-9023a4c5fda7.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Home Page
+Has 4 sub-sections 
+1. Logout
+2. Balance Cart
+3. Add Transation Cart
+4. History Cart
+![image](https://user-images.githubusercontent.com/69415586/171324018-8a3c2989-5d7a-4a01-8521-fa99d57d8e88.png)
+![image](https://user-images.githubusercontent.com/69415586/171323982-7bd75279-bd51-45d1-a79b-196ac0cde9f6.png)
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Getting started with Expensify
+Clone the repository and run npm install to install all the dependencies
+Run npm start to start the react app
+Navigate to localhost:3000 on your browser
