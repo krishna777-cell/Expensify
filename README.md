@@ -27,6 +27,6 @@ Has 4 sub-sections
 ![image](https://user-images.githubusercontent.com/69415586/171323982-7bd75279-bd51-45d1-a79b-196ac0cde9f6.png)
 
 ## Getting started with Expensify
-Clone the repository and run npm install to install all the dependencies
-Run npm start to start the react app
-Navigate to localhost:3000 on your browser
+1. Clone the repository and run npm install to install all the dependencies
+2. Run npm start to start the react app
+3. Navigate to localhost:3000 on your browser
